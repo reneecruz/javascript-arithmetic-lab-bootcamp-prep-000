@@ -28,7 +28,6 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  parseFloat('80.123999');
+  parseFloat(n);
 }
 
-n = 651
