@@ -24,6 +24,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  parse.Int('2', 10);
+  parseInt('2', 10);
 }
 
